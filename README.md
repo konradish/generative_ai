@@ -10,6 +10,8 @@
 
 [Stable Diffusion online demo (keep trying if the server is too busy)](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
+[Clip Interrogator 2 Online](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2)
+
 # From presentation
 [Magic two word prompts](https://twitter.com/fofrAI/status/1624744359965954048)
 
