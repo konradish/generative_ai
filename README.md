@@ -1,8 +1,6 @@
 # Text with Large Language Models
 [ChatGPT](https://chat.openai.com/)
 
-[Impact of ChatGPT](https://twitter.com/fofrAI/status/1624744359965954048)
-
 # Images with Diffusion
 [Dall-E 2](https://openai.com/dall-e-2/)
 
